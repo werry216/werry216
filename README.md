@@ -23,7 +23,6 @@
     <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/angular.png" alt="angular-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/vue.png" alt="vue-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="40" height="40"/>
-    <img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="git-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="40" height="40"/>
