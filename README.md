@@ -9,7 +9,7 @@
 
 ## :smile: Stay smiling and :book: keep coding.
 
-🚀 Full-Stack Engineer :punch: JavaScript, PHP, Python
+🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ...
 <br/><br/>
 
 <a href="#"><img width='100%' src="images.jpg" alt="Hey, my name is Oleksandr Makovoz!" /></a>
