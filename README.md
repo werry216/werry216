@@ -5,6 +5,13 @@
 <meta name="solana" />
 <meta name="Blockchain" />
 <meta name="full-stack"/>
+# Hello. 
+
+## :smile: Stay smiling and :book: keep coding.
+
+🚀 Full-Stack Engineer :punch: JavaScript, PHP, Python
+<br/><br/>
+
 <a href="#"><img width='100%' src="images.jpg" alt="Hey, my name is Oleksandr Makovoz!" /></a>
 <br />
 <p align="left">
