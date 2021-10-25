@@ -27,7 +27,7 @@
     <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="git-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://img.icons8.com/color/344/css3.png" alt="css3-github-profile-awesome-beautiful" width="40" height="40"/>
-    <img src="https://https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="css3-github-profile-awesome-beautiful" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://img.icons8.com/color/344/html-5.png" alt="html5-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/bootstrap.png" alt="bootstrap-github-profile-awesome-beautiful" width="35" height="37" style="visibility: visible;">
