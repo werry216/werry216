@@ -35,4 +35,9 @@
     <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
+    <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
+    <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
 </p>
