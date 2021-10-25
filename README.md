@@ -35,7 +35,6 @@
     <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
 </p>
-<br />
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
