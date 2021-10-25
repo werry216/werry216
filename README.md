@@ -14,7 +14,7 @@
 
 <a href="#"><img width='100%' src="images.jpg" alt="Hey, my name is Oleksandr Makovoz!" /></a>
 <br />
-<p align="left">
+<p align="center">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux-github-profile-awesome-beautiful" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="javascript-github-profile-awesome-beautiful" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="40" height="40"/> 
@@ -35,6 +35,7 @@
     <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="jquery-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://www.vectorlogo.zone/logos/amazon/amazon-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
