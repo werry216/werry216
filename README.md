@@ -20,9 +20,11 @@
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript-github-profile-awesome-beautiful" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs-github-profile-awesome-beautiful" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs-github-profile-awesome-beautiful" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs-github-profile-awesome-beautiful" width="40" height="40"/>
+    <img src="./icons/next.jpg" alt="next-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/angular.png" alt="angular-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://mdbcdn.b-cdn.net/wp-content/themes/mdbootstrap4/content/en/_mdb5/_assets/img/icons/vue.png" alt="vue-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
+    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;">
     <img src="https://www.theconsolelogs.com/react/redux.svg" alt="redux-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql-github-profile-awesome-beautiful" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" alt="git-github-profile-awesome-beautiful" width="40" height="40"/>
