@@ -7,7 +7,7 @@
 <meta name="full-stack"/>
 # Hello. 
 
-## :smile: Stay smiling and :book: keep coding.
+## :smile: Web Development is a part of my life and :book: keep coding.
 
 🚀 Full-Stack Developer :punch: JavaScript, TypeScript, TailwindCSS, React & Next, NodeJS & ExpressJS, PostgreSQL, MongoDB, ...
 <br/><br/>
