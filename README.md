@@ -5,7 +5,7 @@
 <meta name="solana" />
 <meta name="Blockchain" />
 <meta name="full-stack"/>
-# Hello. 
+<h1 align="center"><em>Hello.</em><h1> 
 
 ## :smile: Web Development is a part of my life and :book: Keep coding forever.
 
