@@ -49,3 +49,9 @@
     <img src="https://www.vectorlogo.zone/logos/firefox/firefox-icon.svg" alt="firefox-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="amazon-github-profile-awesome-beautiful" width="40" height="40" style="visibility: visible;"/>
 </p>
+
+
+## Contact Info
+<p align="center"> Telegram: https://t.me/goldreact </p>
+<p align="center"> Skype: live:.cid.55e18c7d40ebcdfe </p>
+<p align="center"> Discord: https://discord.gg/prSeNjQG </p>
