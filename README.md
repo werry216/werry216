@@ -52,6 +52,6 @@
 
 
 ## Contact Info
-<p align="center"> Telegram: https://t.me/goldreact </p>
-<p align="center"> Skype: live:.cid.55e18c7d40ebcdfe </p>
-<p align="center"> Discord: https://discord.gg/prSeNjQG </p>
+<p> Telegram: https://t.me/goldreact </p>
+<p> Skype: live:.cid.55e18c7d40ebcdfe </p>
+<p> Discord: https://discord.gg/prSeNjQG </p>
