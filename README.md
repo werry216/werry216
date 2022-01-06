@@ -51,7 +51,7 @@
 </p>
 
 
-<!-- ## Contact Info
-<p> Telegram: https://t.me/goldreact </p>
-<p> Skype: live:.cid.55e18c7d40ebcdfe </p>
-<p> Discord: https://discord.gg/prSeNjQG </p> -->
+## Contact Info
+<p> Telegram: https://t.me/bonanzawebdev </p>
+<p> Skype: https://join.skype.com/invite/KdvF7ZkTbpet </p>
+<!-- <p> Discord: https://discord.gg/prSeNjQG </p> -->
