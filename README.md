@@ -52,6 +52,6 @@
 
 
 ## Contact Info
-<p> Telegram: https://t.me/bonanzawebdev </p>
+<p> Telegram: https://t.me/bonanzalek </p>
 <p> Skype: https://join.skype.com/invite/KdvF7ZkTbpet </p>
 <!-- <p> Discord: https://discord.gg/prSeNjQG </p> -->
