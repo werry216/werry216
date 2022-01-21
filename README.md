@@ -53,5 +53,6 @@
 
 ## Contact Info
 <p> Telegram: https://t.me/bonanzalek </p>
-<p> Skype: https://join.skype.com/invite/KdvF7ZkTbpet </p>
-<!-- <p> Discord: https://discord.gg/prSeNjQG </p> -->
+<!-- <p> Skype: https://join.skype.com/invite/KdvF7ZkTbpet </p> -->
+<p> Skype: https://join.skype.com/invite/wtxECTma9w4I </p>
+<p> Discord: https://discord.gg/prSeNjQG </p>
